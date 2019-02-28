@@ -1,3 +1,1 @@
-# ParenthesesMatch
-
-Con una pila cada caracter es revisado si se cierra y si se abre.
+Se revisa si el parentesis o llaves estan abiertas por medio de una pila 
